@@ -1,3 +1,7 @@
+<a href="https://skyhop.org"><img src="https://app.skyhop.org/assets/images/skyhop.svg" width=200 alt="skyhop logo" /></a>
+
+----
+
 This project is just a quick 'n dirty wrapper around the XCSoar python library.
 
 You can upload an IGC file through the web interface, and you'll get a JSON blob with some data back.
